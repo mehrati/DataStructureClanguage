@@ -130,7 +130,6 @@ void print_revers(){
 }
 
 
-
 int main(){
  
    HEAD=(node_t*)malloc(sizeof(node_t));
